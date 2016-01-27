@@ -4,7 +4,7 @@
         <description><![CDATA[Glass Images]]></description>
         <link>https://thegrid.ai/glass-images/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 21:16:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 21:42:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/glass-images/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/glass-images/86b5d645-13bd-48c0-ac1a-b57061b62cb4/index.html</link>
             <guid isPermaLink="false">86b5d645-13bd-48c0-ac1a-b57061b62cb4</guid>
             <pubDate>Wed, 27 Jan 2016 21:15:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://youtu.be/bGLBo02IvSM</p>]]></description>
+            <link>https://thegrid.ai/glass-images/httpsyoutubebglbo02ivsm/index.html</link>
+            <guid isPermaLink="false">6bf3d167-6b81-4e82-94d7-73dbf36a9bc2</guid>
+            <pubDate>Wed, 27 Jan 2016 21:42:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
