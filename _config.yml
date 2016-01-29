@@ -1,7 +1,7 @@
 name: Glass Images
 favicon: null
-layout_spectrum: 0.9988
-typography_spectrum: 0.32912
+layout_spectrum: 0.72744
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
