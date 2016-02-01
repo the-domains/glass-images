@@ -4,7 +4,7 @@
         <description><![CDATA[Glass Images]]></description>
         <link>https://thegrid.ai/glass-images/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 22:20:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Feb 2016 17:19:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/glass-images/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/glass-images/38e3bb67-d336-46bd-83d7-55b4cc303477/index.html</link>
             <guid isPermaLink="false">38e3bb67-d336-46bd-83d7-55b4cc303477</guid>
             <pubDate>Wed, 27 Jan 2016 22:57:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/9c58d743-448b-4781-b134-69caed2398f0.JPG">]]></description>
+            <link>https://thegrid.ai/glass-images/dd7dbea4-e47f-4bc5-80c4-830aafab430b/index.html</link>
+            <guid isPermaLink="false">dd7dbea4-e47f-4bc5-80c4-830aafab430b</guid>
+            <pubDate>Mon, 01 Feb 2016 17:18:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/glass-images/86f81aee-0d8b-4326-b0fd-7c640ec6c6f8/index.html</link>
             <guid isPermaLink="false">86f81aee-0d8b-4326-b0fd-7c640ec6c6f8</guid>
             <pubDate>Fri, 29 Jan 2016 21:53:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d2cc722-dba2-44f4-8396-944e82cf499c.png">]]></description>
-            <link>https://thegrid.ai/glass-images/d5f382cd-a171-4d91-8ebe-5778c4c667df/index.html</link>
-            <guid isPermaLink="false">d5f382cd-a171-4d91-8ebe-5778c4c667df</guid>
-            <pubDate>Fri, 29 Jan 2016 21:45:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
