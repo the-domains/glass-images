@@ -4,7 +4,7 @@
         <description><![CDATA[Glass Images]]></description>
         <link>https://thegrid.ai/glass-images/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 01 Feb 2016 17:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 18:12:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/glass-images/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/glass-images/38e3bb67-d336-46bd-83d7-55b4cc303477/index.html</link>
             <guid isPermaLink="false">38e3bb67-d336-46bd-83d7-55b4cc303477</guid>
             <pubDate>Wed, 27 Jan 2016 22:57:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[residential glass]]></title>
+            <description><![CDATA[<article><h1>residential glass</h1><p>Residential Glass Projects</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e26f29f9cadfc2592b32d0a5036e6fbca5df2274.png"></article>]]></description>
+            <link>https://thegrid.ai/glass-images/8d2783d6-1468-422d-a159-a3d88de623ad/index.html</link>
+            <guid isPermaLink="false">8d2783d6-1468-422d-a159-a3d88de623ad</guid>
+            <pubDate>Mon, 01 Feb 2016 18:03:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -46,7 +53,7 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f4cef9c-b93e-4906-9e47-3d9f1582a5b3.jpg">]]></description>
             <link>https://thegrid.ai/glass-images/69e38c31-b18c-4e80-9fdb-3077100d6609/index.html</link>
             <guid isPermaLink="false">69e38c31-b18c-4e80-9fdb-3077100d6609</guid>
-            <pubDate>Fri, 29 Jan 2016 22:13:13 GMT</pubDate>
+            <pubDate>Tue, 02 Feb 2016 18:12:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/glass-images/8612efc9-67a4-4fe3-ac39-2feb995bba51/index.html</link>
             <guid isPermaLink="false">8612efc9-67a4-4fe3-ac39-2feb995bba51</guid>
             <pubDate>Fri, 29 Jan 2016 21:56:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ac564d3a-822e-45e2-aa8e-3cf4c9e375b5.JPG">]]></description>
-            <link>https://thegrid.ai/glass-images/86f81aee-0d8b-4326-b0fd-7c640ec6c6f8/index.html</link>
-            <guid isPermaLink="false">86f81aee-0d8b-4326-b0fd-7c640ec6c6f8</guid>
-            <pubDate>Fri, 29 Jan 2016 21:53:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
