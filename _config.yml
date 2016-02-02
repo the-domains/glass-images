@@ -1,6 +1,6 @@
 name: Glass Images
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.23646
 typography_spectrum: 0.75632
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#b9c5d1'
     - '#a0a2ae'
     - '#46474b'
-  brandStrength: 0
+  brandStrength: 1
   lightness: 0.5
   saturation: 0.8125
   rhythmicContrast: 0.5
